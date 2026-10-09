@@ -1,0 +1,12 @@
+:root{
+  /* Nothing is rounded, nothing is shadowed. Depth comes from washes. */
+  --radius-0:0px; --radius-1:2px; --radius-2:3px; --radius-pill:999px;
+  --shadow-none:none;
+  --shadow-sheet:0 0 0 1px rgba(46,58,69,.04);      /* the sheet's barely-there edge */
+  --shadow-lift:0 10px 40px -24px rgba(46,58,69,.35); /* modals only */
+  --border-panel-1:var(--rule) solid var(--border-panel);
+  --border-hair:var(--rule) solid var(--border-hairline);
+  --underline-emphasis:1px;      /* key phrases are underlined, never bolded */
+  --underline-offset:5px;
+  --dot-size:6px; --dot-gap:10px;
+}

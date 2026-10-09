@@ -1,0 +1,11 @@
+:root{
+  --space-1:4px; --space-2:8px; --space-3:12px; --space-4:16px; --space-5:24px;
+  --space-6:32px; --space-7:48px; --space-8:64px; --space-9:88px; --space-10:120px;
+  --sheet-max:748px;      /* the white article sheet */
+  --column-max:668px;     /* text column inside it */
+  --sheet-pad:40px;       /* desktop side padding inside the sheet */
+  --sheet-pad-mobile:24px;
+  --gutter:24px; --page-max:1180px;
+  --rule:1px; --rule-accent:6px;   /* the pale bar across the top of the sheet */
+  --tap-min:44px;
+}
